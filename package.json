@@ -1,0 +1,13 @@
+{
+  "name": "paint-masters-ops-board",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Standalone Daily Ops Board for Paint Masters — no Claude login required, gated by a shared passphrase.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

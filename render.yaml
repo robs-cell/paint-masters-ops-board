@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: paint-masters-ops-board
+    env: node
+    plan: starter
+    region: oregon
+    buildCommand: npm install
+    startCommand: node server.js
+    healthCheckPath: /healthz
+    disk:
+      name: ops-board-data
+      mountPath: /var/data
+      sizeGB: 1
+    envVars:
+      - key: PASSPHRASE
+        sync: false
+      - key: BOARD_FILE
+        value: /var/data/board.json

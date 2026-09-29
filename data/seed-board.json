@@ -1,0 +1,343 @@
+{
+  "actions": [
+    {
+      "id": "j37gznnd",
+      "text": "DECATUR 3M TRANSFER"
+    }
+  ],
+  "backorder": [
+    {
+      "id": "s08oyabc",
+      "text": "WB2010"
+    },
+    {
+      "id": "vohip6mo",
+      "text": "74500s"
+    },
+    {
+      "id": "j0q7ybu6",
+      "text": "WB2040"
+    },
+    {
+      "id": "zv34c5ya",
+      "text": "44485s"
+    },
+    {
+      "id": "i139zllj",
+      "text": "14306s"
+    },
+    {
+      "id": "fvrbkhuw",
+      "text": "16198"
+    }
+  ],
+  "inbound": [
+    {
+      "date": "9/19/26",
+      "id": "kqlo2wwy",
+      "shipDate": "2026-09-19",
+      "source": "agent10",
+      "sourceMessageId": "<CAH+OHswZMzZDKH4SjYcNrUmv8R2DGD13cA3pp+zes=vsqgpngw@mail.gmail.com>",
+      "text": "3M — 91891-2 → DORAVILLE"
+    },
+    {
+      "date": "9/19/26",
+      "id": "tem5fuwy",
+      "shipDate": "2026-09-19",
+      "source": "agent10",
+      "sourceMessageId": "<CAH+OHsxxyj78dYqTr=J+byBgs6A+uSKw+7obBvvE-kO=abPggw@mail.gmail.com>",
+      "text": "3M — 92909-2 → DORAVILLE"
+    },
+    {
+      "date": "9/22/26",
+      "id": "n6cmy2vj",
+      "shipDate": "2026-09-22",
+      "source": "agent10",
+      "sourceMessageId": "<ADR510000019189942006D9287719BAA1FE1ADDEA5E61A47D65E@AXALTACS.NET>",
+      "text": "⚠ AXALTA — 93602-4 → ALBANY"
+    },
+    {
+      "date": "9/22/26",
+      "id": "h6yefifn",
+      "shipDate": "2026-09-22",
+      "source": "agent10",
+      "sourceMessageId": "<ADR510000019188402006D9287719BAA1FE1ADDEA3F62343D63D@AXALTACS.NET>",
+      "text": "AXALTA — 91986 → DORAVILLE"
+    },
+    {
+      "date": "9/22/26",
+      "id": "3kfsksgi",
+      "shipDate": "2026-09-22",
+      "source": "agent10",
+      "sourceMessageId": "<78b71b18-28af-4654-b7bc-92d086825967@SJ5PEPF000001CE.namprd05.prod.outlook.com>",
+      "text": "NATIONAL OAK — 93711-2 → DORAVILLE"
+    },
+    {
+      "date": "9/22/26",
+      "id": "0qmn0xwd",
+      "shipDate": "2026-09-22",
+      "source": "agent10",
+      "sourceMessageId": "<831436c4-35ea-419d-af37-ae83c278b056@CO1PEPF000075ED.namprd03.prod.outlook.com>",
+      "text": "NATIONAL OAK — 93708-2 → CUMMING"
+    },
+    {
+      "date": "9/23/26",
+      "id": "2amp79hl",
+      "shipDate": "2026-09-23",
+      "source": "agent10",
+      "sourceMessageId": "<ADR5100000193070720091BA03FC60451FD1ADF8AA364F9E7049@AXALTACS.NET>",
+      "text": "AXALTA — 91986 → DORAVILLE"
+    },
+    {
+      "date": "9/23/26",
+      "id": "gmhtgfqg",
+      "shipDate": "2026-09-23",
+      "source": "agent10",
+      "sourceMessageId": "<ADR5100000193070820091BA03FC60451FD1ADF8AA364F9F3049@AXALTACS.NET>",
+      "text": "AXALTA — 91986 → DORAVILLE"
+    },
+    {
+      "date": "9/23/26",
+      "id": "aixwn4ct",
+      "shipDate": "2026-09-23",
+      "source": "agent10",
+      "sourceMessageId": "<f9b2adf0-e8ca-49f3-b728-adccd58db299@CH2PEPF00000140.namprd02.prod.outlook.com>",
+      "text": "NATIONAL OAK — 93765-2 → DORAVILLE"
+    },
+    {
+      "date": "9/23/26",
+      "id": "ckvgv0dp",
+      "shipDate": "2026-09-23",
+      "source": "agent10",
+      "sourceMessageId": "<1848259881.8251.1790182403662@accstorefront-7d4bd654d9-lf4x2>",
+      "text": "3M — 93759-2 → DORAVILLE"
+    },
+    {
+      "date": "9/24/26",
+      "id": "z96t4qos",
+      "shipDate": "2026-09-24",
+      "source": "agent10",
+      "sourceMessageId": "<ADR5100000194184920057A6BACF794F1FD1AE90D83EBEF8D8A0@AXALTACS.NET>",
+      "text": "AXALTA — 93489 → DORAVILLE"
+    },
+    {
+      "date": "9/24/26",
+      "id": "5td1hzbh",
+      "shipDate": "2026-09-24",
+      "source": "agent10",
+      "sourceMessageId": "<ADR5100000194184820057A6BACF794F1FD1AE90D83EBEF818A0@AXALTACS.NET>",
+      "text": "AXALTA — 93489 → DORAVILLE"
+    },
+    {
+      "date": "9/24/26",
+      "id": "qk1escr7",
+      "shipDate": "2026-09-24",
+      "source": "agent10",
+      "sourceMessageId": "<ADR5100000194184720057A6BACF794F1FD1AE90D83EBEF6D8A0@AXALTACS.NET>",
+      "text": "AXALTA — 93489 → DORAVILLE"
+    },
+    {
+      "date": "9/24/26",
+      "id": "2y4n0p4l",
+      "shipDate": "2026-09-24",
+      "source": "agent10",
+      "sourceMessageId": "<ADR51000001941846200954C967E68A11FD1AE90C56FF95A8B22@AXALTACS.NET>",
+      "text": "AXALTA — 93489 → DORAVILLE"
+    },
+    {
+      "date": "9/24/26",
+      "id": "mlw4ibpa",
+      "shipDate": "2026-09-24",
+      "source": "agent10",
+      "sourceMessageId": "<ADR51000001940556200471F7A0C32571FE1AE8D868C9CEE4B71@AXALTACS.NET>",
+      "text": "AXALTA — Motorsports By Design BIP"
+    },
+    {
+      "date": "9/24/26",
+      "id": "zkp5p6rz",
+      "shipDate": "2026-09-24",
+      "source": "agent10",
+      "sourceMessageId": "<d2a25dd1-b04b-4997-aa16-59fe9b77db03@SN1PEPF000397B2.namprd05.prod.outlook.com>",
+      "text": "NATIONAL OAK — 93846-2 → DORAVILLE"
+    },
+    {
+      "date": "9/24/26",
+      "id": "icnjrh6t",
+      "shipDate": "2026-09-24",
+      "source": "agent10",
+      "sourceMessageId": "<021c941a-d379-46b5-ac20-648c2145bd59@MWH0EPF000C6190.namprd02.prod.outlook.com>",
+      "text": "NATIONAL OAK — 93824-2 → DORAVILLE"
+    },
+    {
+      "date": "9/24/26",
+      "id": "rfbg0w3c",
+      "shipDate": "2026-09-24",
+      "source": "agent10",
+      "sourceMessageId": "<7fe7dbcf-4934-4305-ad37-d9ca47078b57@SJ5PEPF00000209.namprd05.prod.outlook.com>",
+      "text": "NATIONAL OAK — 93821-2 → DORAVILLE"
+    },
+    {
+      "date": "9/24/26",
+      "id": "umilqd53",
+      "shipDate": "2026-09-24",
+      "source": "agent10",
+      "sourceMessageId": "<923b9994-cea2-4b00-b9f3-06cfcdcd6927@BN7PEPF0000009D.namprd04.prod.outlook.com>",
+      "text": "NATIONAL OAK — 93821-2 → DORAVILLE"
+    },
+    {
+      "date": "9/24/26",
+      "id": "xq0t28z8",
+      "shipDate": "2026-09-24",
+      "source": "agent10",
+      "sourceMessageId": "<a123735f-548b-4524-83af-acaad5793b6b@MW1PEPF0001615D.namprd21.prod.outlook.com>",
+      "text": "NATIONAL OAK — 93821-2 → DORAVILLE"
+    },
+    {
+      "date": "9/24/26",
+      "id": "y5iz84ld",
+      "shipDate": "2026-09-24",
+      "source": "agent10",
+      "sourceMessageId": "<c0a64347-9f5d-4a83-b1e4-2df0c2305e1b@SA2PEPF00003AE5.namprd02.prod.outlook.com>",
+      "text": "NATIONAL OAK — 93056-3 → CONYERS"
+    },
+    {
+      "date": "9/24/26",
+      "id": "e1z61cg1",
+      "shipDate": "2026-09-24",
+      "source": "agent10",
+      "sourceMessageId": "<554367e9-dca7-4013-adb9-bd6cd4b6fec8@BN1PEPF00018075.namprd04.prod.outlook.com>",
+      "text": "NATIONAL OAK — 93802-2 → DORAVILLE"
+    },
+    {
+      "date": "9/25/26",
+      "id": "x7nq3fpt",
+      "shipDate": "2026-09-25",
+      "source": "agent10",
+      "sourceMessageId": "<84aa95f6-de7b-4cde-a2ac-a12b4fde1a83@CH1PEPF0000AD78.namprd04.prod.outlook.com>",
+      "text": "NATIONAL OAK — 93855-2 → DORAVILLE"
+    },
+    {
+      "date": "9/25/26",
+      "id": "m2vk9jhr",
+      "shipDate": "2026-09-25",
+      "source": "agent10",
+      "sourceMessageId": "<ADR51000001953680200BF1FE83F0B981FE1AEA98F3EE5060E4A@AXALTACS.NET>",
+      "text": "AXALTA — 93489 → DORAVILLE"
+    },
+    {
+      "date": "9/25/26",
+      "id": "n5wc72hs",
+      "shipDate": "2026-09-25",
+      "source": "agent10",
+      "sourceMessageId": "<ADR51000001953679200BF1FE83F0B981FE1AEA98F18DC008E46@AXALTACS.NET>",
+      "text": "AXALTA — 93489 → DORAVILLE"
+    },
+    {
+      "date": "9/25/26",
+      "id": "p9dh4kxb",
+      "shipDate": "2026-09-25",
+      "source": "agent10",
+      "sourceMessageId": "<ADR51000001953678200BF1FE83F0B981FE1AEA98F18DBFFCE46@AXALTACS.NET>",
+      "text": "AXALTA — 91986 → DORAVILLE"
+    },
+    {
+      "date": "9/25/26",
+      "id": "t3jrykqa",
+      "shipDate": "2026-09-25",
+      "source": "agent10",
+      "sourceMessageId": "<ADR51000001953677200BF1FE83F0B981FE1AEA98F18DBFF0E46@AXALTACS.NET>",
+      "text": "AXALTA — 93489 → DORAVILLE"
+    },
+    {
+      "date": "9/28/26",
+      "id": "k4afeknh",
+      "shipDate": "2026-09-28",
+      "source": "agent10",
+      "sourceMessageId": "<ADR51000001977480200DB14DF77D6721FD1AEF584976389555B@AXALTACS.NET>",
+      "text": "AXALTA — 93489 → DORAVILLE"
+    },
+    {
+      "date": "9/28/26",
+      "id": "f698k4sw",
+      "shipDate": "2026-09-28",
+      "source": "agent10",
+      "sourceMessageId": "<ADR51000001977481200DB14DF77D6721FD1AEF58497638A155B@AXALTACS.NET>",
+      "text": "AXALTA — 93489 → DORAVILLE"
+    },
+    {
+      "date": "9/28/26",
+      "id": "6he7blgv",
+      "shipDate": "2026-09-28",
+      "source": "agent10",
+      "sourceMessageId": "<ADR51000001977482200DB14DF77D6721FD1AEF58497638AD55B@AXALTACS.NET>",
+      "text": "AXALTA — 91986 → DORAVILLE"
+    },
+    {
+      "date": "9/28/26",
+      "id": "j2ajw3ld",
+      "shipDate": "2026-09-28",
+      "source": "agent10",
+      "sourceMessageId": "<ADR51000001977483200DB14DF77D6721FD1AEF58497638B955B@AXALTACS.NET>",
+      "text": "AXALTA — 93489 → DORAVILLE"
+    },
+    {
+      "date": "9/28/26",
+      "id": "jwo4ikof",
+      "shipDate": "2026-09-28",
+      "source": "agent10",
+      "sourceMessageId": "<3dc6cf99-6993-445f-bc3d-7cc02007410e@MW1PEPF0001615E.namprd21.prod.outlook.com>",
+      "text": "NATIONAL OAK — 93899"
+    }
+  ],
+  "projects": [
+    {
+      "id": "pfk7mc0v",
+      "text": "Ship out Spies Hecker WT to Albany"
+    },
+    {
+      "id": "jkvwtmb1",
+      "text": "Order shelves x2 in Conyers for New Nason/Spies WT"
+    },
+    {
+      "id": "8ezns25q",
+      "text": "New Nason installs @ CR"
+    }
+  ],
+  "shipped": [
+    {
+      "id": "mh48cjn0",
+      "text": "XP125"
+    }
+  ],
+  "transfers": [
+    {
+      "color": "#2f8f52",
+      "id": "yv2zk0eu",
+      "name": "ALBANY",
+      "pallets": 0,
+      "status": "SET UP"
+    },
+    {
+      "color": "#c8811a",
+      "id": "5zrp8km0",
+      "name": "CONYERS",
+      "pallets": 0,
+      "status": "SET UP"
+    },
+    {
+      "color": "#7a3fae",
+      "id": "wlo3fbpn",
+      "name": "DECATUR",
+      "pallets": 1,
+      "status": "PULLING"
+    },
+    {
+      "color": "#c8443a",
+      "id": "rkdmzrug",
+      "name": "CUMMING",
+      "pallets": 0,
+      "status": "SET UP"
+    }
+  ],
+  "updatedAt": "2026-09-04T17:21:29.002Z"
+}
